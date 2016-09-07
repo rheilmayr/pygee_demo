@@ -1,1 +1,1 @@
-# Demo to be used in a Docker/GEE/Jupyter deployment
+# Demo of a Docker/GEE/Jupyter deployment
